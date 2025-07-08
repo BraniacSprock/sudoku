@@ -1,0 +1,17 @@
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\bin\Debug\net9.0-windows\Sudoku Çözücü.exe
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\bin\Debug\net9.0-windows\Sudoku Çözücü.deps.json
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\bin\Debug\net9.0-windows\Sudoku Çözücü.runtimeconfig.json
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\bin\Debug\net9.0-windows\Sudoku Çözücü.dll
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\bin\Debug\net9.0-windows\Sudoku Çözücü.pdb
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\Sudoku_Çözücü.Form1.resources
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\Sudoku_Çözücü.Resource1.resources
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\Sudoku Çözücü.csproj.GenerateResource.cache
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\Sudoku Çözücü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\Sudoku Çözücü.AssemblyInfoInputs.cache
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\Sudoku Çözücü.AssemblyInfo.cs
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\Sudoku Çözücü.csproj.CoreCompileInputs.cache
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\Sudoku Çözücü.dll
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\refint\Sudoku Çözücü.dll
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\Sudoku Çözücü.pdb
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\Sudoku Çözücü.genruntimeconfig.cache
+C:\Users\Demir\source\repos\Sudoku Çözücü\Sudoku Çözücü\obj\Debug\net9.0-windows\ref\Sudoku Çözücü.dll
